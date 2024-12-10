@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 class Exercicio3Soma {
     Scanner objetoScanner = new Scanner(System.in);
+    
     String resposta = new String();
     int numero1;
     int numero2;
@@ -14,7 +15,7 @@ class Exercicio3Soma {
         
         resposta = objetoScanner.nextLine();
         
-        if(resposta.equals("soma"))
+        if(resposta.equalsIgnoreCase("soma"))
         {
             System.out.println("Por favor introduza o primeiro numero para somar");
             numero1 = objetoScanner.nextInt();
