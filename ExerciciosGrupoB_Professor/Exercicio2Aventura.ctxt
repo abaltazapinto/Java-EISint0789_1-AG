@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exercicio2Aventura
+comment1.params=
+comment1.target=Exercicio2Aventura()
+comment2.params=
+comment2.target=void\ irParaNorte()
+comment3.params=
+comment3.target=void\ irParaSul()
+comment4.params=
+comment4.target=void\ irParaEste()
+comment5.params=
+comment5.target=void\ irParaOeste()
+numComments=6

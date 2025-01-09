@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=simulacaoNotasEscolares
+comment0.text=\n\ 1.\ Simula\u00E7\u00E3o\ de\ Notas\ Escolares\nObjetivo\:\nDesenvolver\ um\ programa\ que\ permita\ calcular\ a\ m\u00E9dia\ de\ notas\ de\ um\ aluno\ e\ indicar\ se\ ele\ passou\ ou\ reprovou.\n\nRequisitos\:\n\nSolicitar\ ao\ utilizador\ o\ nome\ do\ aluno.\nPedir\ ao\ utilizador\ tr\u00EAs\ notas\ (valores\ entre\ 0\ e\ 20).\nCalcular\ a\ m\u00E9dia\ das\ tr\u00EAs\ notas.\nSe\ a\ m\u00E9dia\ for\ maior\ ou\ igual\ a\ 10,\ o\ programa\ dever\u00E1\ indicar\ que\ o\ aluno\ passou.\ Caso\ contr\u00E1rio,\ dever\u00E1\ indicar\ que\ reprovou.\n
+comment1.params=
+comment1.target=simulacaoNotasEscolares()
+numComments=2

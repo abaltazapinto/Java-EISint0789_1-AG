@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MesaPoker
+comment1.params=
+comment1.target=MesaPoker()
+comment2.params=
+comment2.target=void\ fazerBaralho()
+comment3.params=
+comment3.target=void\ listarBaralho()
+comment4.params=
+comment4.target=void\ comprarCarta()
+comment5.params=numeroDeCartasAComprar
+comment5.target=void\ comprarCarta(int)
+numComments=6

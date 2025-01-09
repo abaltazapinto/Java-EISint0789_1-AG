@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrevisaoTempo
+comment1.params=
+comment1.target=PrevisaoTempo()
+comment2.params=number
+comment2.target=void\ previsao(int)
+comment3.params=
+comment3.target=java.lang.String\ clima()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ContagemDeNumerosEmArrayList
+comment1.params=
+comment1.target=ContagemDeNumerosEmArrayList()
+comment2.params=numero
+comment2.target=boolean\ isPar(int)
+numComments=3
