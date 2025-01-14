@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AppGestorTarefas
+comment1.params=
+comment1.target=AppGestorTarefas()
+comment2.params=
+comment2.target=void\ escolhaDeOpcoes()
+comment3.params=
+comment3.target=void\ criarNovaTarefa()
+comment4.params=
+comment4.target=void\ listarTodasTarefas()
+comment5.params=
+comment5.target=void\ listarTarefasUrgentes()
+numComments=6

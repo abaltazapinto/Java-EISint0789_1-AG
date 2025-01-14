@@ -24,9 +24,18 @@ class gestorTarefas {
     {
         System.out.println("\nTarefas disponiveis:");
         
-        for(int i = 0; i < listaDeTarefas.size(); i++)
+        if (listaDeTarefas.isEmpty())
         {
-            System.out.println((i + 1) + ". " + listaDeTarefas.get(i).designacaoTarefa());
+            System.out.println("\nnão há tarefas disponiveis no momento");
+        }
+        else
+        {
+            for(int i = 0; i < listaDeTarefas.size(); i++)
+            { 
+                {
+                    System.out.println((i + 1) + ". " + listaDeTarefas.get(i).designacaoTarefa());
+                }
+            }
         }
     }
     
