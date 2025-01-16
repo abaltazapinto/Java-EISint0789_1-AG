@@ -1,11 +1,12 @@
 class Filme
 {
+    String nome;
+    String genero;
+    String avaliacao;
+    
     Filme()
     {
-        String nome;
-        String genero;
-        String avaliacao;
-        
+        System.out.println("Qual o teu proximo filme");
         nome = "Indefenido";
         genero = "Accao";
         avaliacao = "Boa";
